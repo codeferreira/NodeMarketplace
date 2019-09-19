@@ -2,6 +2,11 @@
 
 Node Marketplace is a NodeJS + Express server to handle product sales.
 
+[![GitHub issues](https://img.shields.io/github/issues/JKFher/NodeMarketplace?style=flat-square)](https://github.com/JKFher/NodeMarketplace/issues)
+[![GitHub forks](https://img.shields.io/github/forks/JKFher/NodeMarketplace?style=flat-square)](https://github.com/JKFher/NodeMarketplace/network)
+[![GitHub stars](https://img.shields.io/github/stars/JKFher/NodeMarketplace?style=flat-square)](https://github.com/JKFher/NodeMarketplace/stargazers)
+[![GitHub license](https://img.shields.io/github/license/JKFher/NodeMarketplace?style=flat-square)](https://github.com/JKFher/NodeMarketplace)
+
 ## Installation
 
 You need [NodeJS](https://nodejs.org/en/) and NPM or Yarn installed.
